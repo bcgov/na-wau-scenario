@@ -1,7 +1,5 @@
 [![img](https://img.shields.io/badge/Lifecycle-Experimental-339999)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)---
-output:
-  md_document:
-    variant: markdown_github
+output: github_document
 ---
 
 ```{r, echo = FALSE}
